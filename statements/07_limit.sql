@@ -1,0 +1,1 @@
+SELECT * FROM usersDB ORDER BY age ASC LIMIT 2;
